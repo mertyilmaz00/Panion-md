@@ -1,0 +1,184 @@
+📊 WHATSAPP ANALYTICS CATEGORIES & METRICS
+🕒 1. Activity Timeline
+
+Tracks when the user is active or online.
+
+Online frequency per day/week
+
+Average time of first login and last logout
+
+Total daily active time
+
+Peak activity hours (e.g., “most active at 9 PM”)
+
+Days of week most active
+
+Average session duration
+
+Longest continuous chat session
+
+Inactive periods (digital detox insights)
+
+💬 2. Messaging Patterns
+
+Helps users understand how they communicate.
+
+Total messages sent vs received
+
+Average messages per day/week
+
+Most active chat (contact or group)
+
+Message ratio (text vs media vs voice)
+
+Average response time
+
+Fastest and slowest replies
+
+Double tick vs blue tick count (delivery/read ratio)
+
+Deleted messages count (and who deletes most)
+
+👥 3. Contact & Engagement Stats
+
+Shows who and how the user interacts with people.
+
+Top 5 contacts by message volume
+
+Most reacted-to chats
+
+Most contacted group
+
+Who replies fastest to user
+
+Average message length per contact
+
+One-sided chat index (who you message but they rarely reply)
+
+Silent contacts (no replies in x days)
+
+🗓️ 4. Habit Insights
+
+Behavioral summaries for productivity and lifestyle reflection.
+
+Time of day most spent chatting
+
+Morning vs Night chat ratio
+
+Average chats opened before replying
+
+Weekend vs Weekday activity
+
+Messaging during work/school hours
+
+Break frequency (intervals between sessions)
+
+Mood detection (based on tone/sentiment of texts)
+
+🧠 5. Emotional & Sentiment Analytics
+
+AI-based tone insights (optional, privacy-aware).
+
+Average sentiment per week (positive / neutral / negative)
+
+Top keywords or topics per period
+
+Emoji usage trends
+
+Emotional balance (stress, excitement, calm)
+
+Words of gratitude / anger frequency
+
+Tone patterns per contact (friendly, formal, heated)
+
+📸 6. Media Usage Insights
+
+How users share files, photos, and videos.
+
+Photos sent / received
+
+Videos sent / received
+
+Voice notes count and average duration
+
+Document sharing (PDFs, docs, etc.)
+
+Status updates viewed / posted
+
+Total storage used by WhatsApp
+
+Average media file size shared
+
+🔔 7. Notification & Reaction Analytics
+
+Understanding responsiveness and awareness.
+
+Notifications opened vs ignored
+
+Average reaction time after notification
+
+Voice call / video call duration
+
+Missed calls
+
+Reactions used most (👍❤️😂 etc.)
+
+Who reacts most to your statuses
+
+🧩 8. Behavioral & Limit Awareness
+
+Useful for digital health, parental control, or productivity.
+
+Daily/weekly chat limits (self-set or system-tracked)
+
+Break reminders (e.g., “You’ve been online for 3 hours straight”)
+
+Chat fatigue index (based on reply delays and engagement drops)
+
+Streak consistency (e.g., “You’ve replied to 90% of messages for 7 days straight”)
+
+“Focus time” tracker (periods when user avoids messages)
+
+Procrastination triggers (how often chats start during work/study time)
+
+🌐 9. Status & Broadcast Engagement
+
+How the user interacts with wider audiences.
+
+Status view count trend
+
+Most-engaged status
+
+People who always view your statuses
+
+Status posting frequency
+
+Broadcast reach and response rate
+
+⚙️ 10. System-Level Insights
+
+For performance and app-level awareness.
+
+Data usage per day/week
+
+Storage per contact/group
+
+Number of active groups
+
+Archived chats count
+
+Blocked contacts count
+
+Muted chats count
+
+Starred messages trend
+
+🧩 Bonus: Smart AI Summaries
+
+You can make it fun and useful by adding:
+
+Weekly Digest: “This week, you messaged 32 people, spent 4.5 hours chatting, and were most active at 10 PM.”
+
+Chat Personality Report: “You’re a quick responder (avg 2 min). You use 🤣 most. You’re most active with Linda.”
+
+Focus Mode Suggestions: “You spend 40% of your work hours on WhatsApp. Consider muting 3 groups.”

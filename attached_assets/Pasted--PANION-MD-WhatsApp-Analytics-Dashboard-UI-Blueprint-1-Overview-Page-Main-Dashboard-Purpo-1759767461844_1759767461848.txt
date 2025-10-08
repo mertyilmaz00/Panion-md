@@ -1,0 +1,199 @@
+🧠 PANION MD – WhatsApp Analytics Dashboard UI Blueprint
+🌆 1. Overview Page (Main Dashboard)
+
+Purpose: Give user a quick glance at their activity summary.
+
+Layout:
+
+🧭 Header Bar:
+Profile picture | Username | Settings ⚙️ | Date Range Picker (Today / Week / Month)
+
+🟩 Quick Stats Tiles (4 cards side by side):
+
+⏱️ Total Online Time: 4h 12m
+
+💬 Messages Sent: 2,410
+
+👥 Top Contact: Linda ❤️
+
+🌙 Most Active Time: 9 PM - 11 PM
+
+📊 Charts Section:
+
+Line Chart: “Messages Sent & Received Over Time”
+
+Heatmap: “Activity by Hour (Mon–Sun grid)”
+
+Pie Chart: “Text vs Media vs Voice ratio”
+
+📅 AI Summary:
+
+“This week you chatted most on Wednesday. You’re 25% more active at night than in the morning.”
+
+💬 2. Message Analytics Page
+
+Purpose: Deep dive into how they chat.
+
+Sections:
+
+Message Volume Graph: daily/weekly bars
+
+Sent vs Received Ratio: circle chart
+
+Average Response Time: gauge meter (0–10 min average)
+
+Deleted Messages: counter + sparkline
+
+Top 5 Contacts Table:
+
+Contact	Messages	% of Total	Avg Response	Sentiment
+Linda ❤️	540	22%	1m 30s	😊 Positive
+Spencer 😈	320	13%	5m	😅 Mixed
+Glinda 😎	200	8%	3m	😐 Neutral
+🕒 3. Activity Timeline
+
+Purpose: Show when they’re active.
+
+Visuals:
+
+Bar Chart: online sessions by hour (00–23h)
+
+Heat Map Calendar: active days highlight intensity
+
+Insights Box:
+
+“Most active between 9–11 PM. Least active Sundays. You open WhatsApp 37 times daily.”
+
+📸 4. Media & Status Page
+
+Purpose: Show content engagement.
+
+Metrics:
+
+Media Sent: 312 (📷 180 photos, 🎥 45 videos, 🎤 87 voice notes)
+
+Storage Used: 2.3 GB
+
+Status Activity:
+
+Statuses Posted: 10 this week
+
+Average Views per Status: 65
+
+Most Viewed Status: “Trip to Sneville 🚗” (92 views)
+
+Top Viewers: Linda, Spencer, Glinda
+
+Status Engagement Trend: bar or line chart
+
+🧩 5. Behavior & Habit Insights
+
+Purpose: Give wellness-style insights.
+
+Cards:
+
+🧘‍♂️ Focus Balance: “You were online 5h/day. 2h during work hours.”
+
+🌗 Morning vs Night Chat Ratio: 20% vs 80%
+
+⚡ Reply Speed: “Faster than 78% of users.”
+
+😶 Silent Chats: “6 contacts haven’t replied in 14 days.”
+
+📈 Consistency Streak: “Active 7 days in a row.”
+
+💤 Break Alert: “You’ve had 18 sessions longer than 1h.”
+
+Chart: Circular gauge “Digital Wellbeing Score” (e.g. 82/100).
+
+💖 6. Emotional & Sentiment Dashboard
+
+Purpose: Analyze mood, tone, and emoji trends.
+
+Features:
+
+Emoji Cloud: most used emojis sized by frequency
+
+Sentiment Line Graph: positive vs neutral vs negative per week
+
+Top 3 Emotional Contacts:
+
+Linda ❤️ (Positive 90%)
+
+Spencer 😈 (Mixed 50%)
+
+Work Group 💼 (Neutral 70%)
+
+Keyword Trends: top 10 most used words
+
+AI Comment:
+
+“You use ‘😂’ 120 times weekly — humor defines your chats!”
+
+🧮 7. Call & Notification Analytics
+
+Purpose: Calls, reactions, and responsiveness.
+
+Cards:
+
+📞 Voice Calls: 34 total, avg duration 3m 40s
+
+📹 Video Calls: 12 total, avg duration 8m 15s
+
+🚫 Missed Calls: 9
+
+🔔 Notifications Opened: 87%
+
+❤️ Reactions Used Most: 😂👍❤️
+
+🧍‍♀️ Top Caller: “Linda (12 calls)”
+
+⚙️ 8. System Summary
+
+Purpose: Technical and behavioral control center.
+
+Stats:
+
+Groups Joined: 14
+
+Archived Chats: 22
+
+Muted Chats: 8
+
+Blocked Contacts: 3
+
+Storage Used per Contact: bar list
+
+Data Usage: 1.8GB (this month)
+
+🤖 9. AI Insights Page (Optional Smart Summary)
+
+Example Summary Card:
+
+🧩 Your Weekly Personality Recap
+
+You’re most talkative with Linda (❤️ 540 msgs)
+
+You prefer voice notes over videos (2:1 ratio)
+
+You stay online 4.3h daily, mostly after 9 PM
+
+You respond in 2m on average — very active!
+
+Mood trend: 78% positive, 12% neutral, 10% negative
+
+💡 Tip: Try “Focus Mode” during work hours to cut down late-night sessions.
+
+🎨 Dashboard Styling Recommendations
+
+Dark/Light Mode toggle
+
+Rounded stat cards with subtle shadows
+
+Charts: use gradient greens/teals (WhatsApp vibe)
+
+Icons: use lucide-react or Remix icons
+
+Animated Counters: numbers increasing smoothly
+
+Progress Circles: for completion/limits (e.g., “Used 60% of daily chat quota”)
